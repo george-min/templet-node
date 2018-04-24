@@ -1,0 +1,17 @@
+{
+  "name": "webapp",
+  "authors": [
+    "george <309421447@qq.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

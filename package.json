@@ -1,0 +1,12 @@
+{
+  "name": "lesson09_imgyun",
+  "version": "1.0.0",
+  "description": "",
+  "main": "imgsServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
